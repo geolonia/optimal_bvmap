@@ -1,0 +1,27 @@
+{
+  "name": "optimal_bvmap",
+  "version": "1.0.0",
+  "description": "- 2023年8月30日にPMTiles形式の最適化ベクトルタイルを試験公開いたしました。なお、ファイルシステムでストアしているタイルセットは、2023年10月時点のデータソースによる更新をもってデータ更新を停止し、2023年度末までに公開を停止する予定です。より迅速で安定した提供のため、ご理解の程どうぞよろしくお願いいたします。",
+  "homepage": "https://github.com/geolonia/optimal_bvmap#readme",
+  "bugs": {
+    "url": "https://github.com/geolonia/optimal_bvmap/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geolonia/optimal_bvmap.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "http-server -c1 -o --cors",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
