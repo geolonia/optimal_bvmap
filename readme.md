@@ -1,5 +1,9 @@
 # 最適化ベクトルタイル試験公開
 
+## スタイルの開発方法
+
+[エディター](https://maplibre.org/maputnik/?style=https://raw.githubusercontent.com/geolonia/optimal_bvmap/refs/heads/main/style/std.json#7/36.104611/140.084556)
+
 ## PMTiles版について
 - 2023年8月30日にPMTiles形式の最適化ベクトルタイルを試験公開いたしました。なお、ファイルシステムでストアしているタイルセットは、2023年10月時点のデータソースによる更新をもってデータ更新を停止し、2023年度末までに公開を停止する予定です。より迅速で安定した提供のため、ご理解の程どうぞよろしくお願いいたします。
 
