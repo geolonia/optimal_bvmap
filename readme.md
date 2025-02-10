@@ -1,6 +1,8 @@
 # 最適化ベクトルタイル試験公開
 
-## スタイルの開発方法
+## スタイルの編集方法
+
+オープンソースの編集ツール `maputnik` でスタイルを編集することが可能です。
 
 [エディター](https://maplibre.org/maputnik/?style=https://raw.githubusercontent.com/geolonia/optimal_bvmap/refs/heads/main/style/std.json#7/36.104611/140.084556)
 
