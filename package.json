@@ -19,7 +19,8 @@
   },
   "scripts": {
     "start": "http-server -c1 -o --cors",
-    "test": "gl-style-validate style/std.json"
+    "test": "gl-style-validate style/std.json",
+    "minify": "gl-style-format --space 0 style/std.json"
   },
   "devDependencies": {
     "@maplibre/maplibre-gl-style-spec": "^23.1.0",
